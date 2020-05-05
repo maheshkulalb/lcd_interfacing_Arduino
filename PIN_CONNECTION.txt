@@ -1,0 +1,15 @@
+ARDUINO-------------16*2 LCD DISPLAY
+
+GND                -K
+3.2V               -A
+D2                 -D7
+D3                 -D6
+D4                 -D5
+D5                 -D4
+D11                -E
+GND                -RW
+D12                -RS  
+5V                 -VDD
+GND                -VSS             
+
+              
